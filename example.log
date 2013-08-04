@@ -1,0 +1,115 @@
+07/27/2013 02:53:53 PM This message should go to the log file
+07/27/2013 02:53:53 PM Making New File
+07/27/2013 02:53:53 PM ----------------File made fully----------------
+07/27/2013 02:53:53 PM Reading File
+07/27/2013 02:54:05 PM ---------File Read fully--------
+07/27/2013 02:54:05 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/27/2013 05:46:03 PM This message should go to the log file
+07/27/2013 05:46:03 PM File is already present
+07/27/2013 05:46:03 PM Reading File
+07/27/2013 05:46:11 PM Entered algorithm analysis
+07/27/2013 05:46:17 PM Entering Choice function with 7 and Tim Sort 
+07/27/2013 05:46:17 PM Entered Choice
+07/27/2013 05:46:17 PM Entering Comp with ['7', 'Tim Sort', 'O(n)', 'O(n log(n))', 'O(n log(n))', 'O(n)'] and Tim Sort
+07/27/2013 05:46:17 PM Entered comp that is algorithm analysis
+07/27/2013 05:46:22 PM Returning from comp
+07/27/2013 05:46:22 PM Returned from Comp
+07/27/2013 05:46:22 PM Returning from Choice
+07/27/2013 05:46:22 PM Returned from Choice function
+07/27/2013 05:46:22 PM Entered algorithm analysis
+07/27/2013 05:46:27 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/27/2013 06:49:34 PM This message should go to the log file
+07/27/2013 06:49:34 PM File is already present
+07/27/2013 06:49:34 PM Reading File
+07/27/2013 06:49:52 PM Entered algorithm analysis
+07/27/2013 06:49:57 PM Entering Choice function with 7 and Tim Sort 
+07/27/2013 06:49:57 PM Entered Choice
+07/27/2013 06:49:57 PM Entering Comp with ['7', 'Tim Sort', 'O(n)', 'O(n log(n))', 'O(n log(n))', 'O(n)'] and Tim Sort
+07/27/2013 06:49:57 PM Entered comp that is algorithm analysis
+07/27/2013 06:50:00 PM Returning from comp
+07/27/2013 06:50:00 PM Returned from Comp
+07/27/2013 06:50:00 PM Returning from Choice
+07/27/2013 06:50:00 PM Returned from Choice function
+07/27/2013 06:50:00 PM Entered algorithm analysis
+07/27/2013 06:50:04 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/28/2013 01:56:53 PM This message should go to the log file
+07/28/2013 01:56:53 PM File is already present
+07/28/2013 01:56:53 PM Reading File
+07/28/2013 01:56:57 PM Entered algorithm analysis
+07/28/2013 01:57:00 PM This message should go to the log file
+07/28/2013 01:57:00 PM File is already present
+07/28/2013 01:57:00 PM Reading File
+07/28/2013 01:57:02 PM Entered algorithm analysis
+07/28/2013 01:57:07 PM Entering Choice function with 4 and Quick Sort 
+07/28/2013 01:57:07 PM Entered Choice
+07/28/2013 01:57:07 PM Entering Comp with ['4', 'Quick Sort', 'O(n log(n))', 'O(n log(n))', 'O(n^2)', 'O(log(n))'] and Quick Sort
+07/28/2013 01:57:07 PM Entered comp that is algorithm analysis
+07/28/2013 01:57:11 PM Returning from comp
+07/28/2013 01:57:11 PM Returned from Comp
+07/28/2013 01:57:11 PM Returning from Choice
+07/28/2013 01:57:11 PM Returned from Choice function
+07/28/2013 01:57:11 PM Entered algorithm analysis
+07/28/2013 01:57:15 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/28/2013 10:10:08 PM This message should go to the log file
+07/28/2013 10:10:08 PM File is already present
+07/28/2013 10:10:08 PM Reading File
+07/28/2013 10:10:56 PM ---------File Read fully--------
+07/28/2013 10:10:56 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/28/2013 10:10:58 PM This message should go to the log file
+07/28/2013 10:10:58 PM File is already present
+07/28/2013 10:10:58 PM Reading File
+07/28/2013 10:11:02 PM Entered algorithm analysis
+07/28/2013 10:11:07 PM Entering Choice function with 4 and Quick Sort 
+07/28/2013 10:11:07 PM Entered Choice
+07/28/2013 10:11:07 PM Entering Comp with ['4', 'Quick Sort', 'O(n log(n))', 'O(n log(n))', 'O(n^2)', 'O(log(n))'] and Quick Sort
+07/28/2013 10:11:07 PM Entered comp that is algorithm analysis
+07/28/2013 10:11:10 PM Returning from comp
+07/28/2013 10:11:10 PM Returned from Comp
+07/28/2013 10:11:10 PM Returning from Choice
+07/28/2013 10:11:10 PM Returned from Choice function
+07/28/2013 10:11:10 PM Entered algorithm analysis
+07/28/2013 10:11:13 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/29/2013 04:42:30 PM This message should go to the log file
+07/29/2013 04:42:30 PM File is already present
+07/29/2013 04:42:30 PM Reading File
+07/29/2013 04:42:40 PM Entered algorithm analysis
+07/29/2013 04:42:42 PM Entering Choice function with 10 and Strand Sort 
+07/29/2013 04:42:42 PM Entered Choice
+07/29/2013 04:42:42 PM Entering Comp with ['10', 'Strand Sort', 'O(n)', 'O(n^2)', 'O(n^2)', 'O(n)'] and Strand Sort
+07/29/2013 04:42:42 PM Entered comp that is algorithm analysis
+07/29/2013 04:42:44 PM Returning from comp
+07/29/2013 04:42:44 PM Returned from Comp
+07/29/2013 04:42:44 PM Returning from Choice
+07/29/2013 04:42:44 PM Returned from Choice function
+07/29/2013 04:42:44 PM Entered algorithm analysis
+07/29/2013 04:42:54 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
+07/29/2013 05:35:20 PM This message should go to the log file
+07/29/2013 05:35:20 PM File is already present
+07/29/2013 05:35:20 PM Reading File
+07/29/2013 05:35:24 PM Entered algorithm analysis
+07/29/2013 05:35:26 PM Entering Choice function with 6 and Selection Sort 
+07/29/2013 05:35:26 PM Entered Choice
+07/29/2013 05:35:26 PM Entering Comp with ['6', 'Selection Sort', 'O(n^2)', 'O(n^2)', 'O(n^2)', 'O(1)'] and Selection Sort
+07/29/2013 05:35:26 PM Entered comp that is algorithm analysis
+07/29/2013 05:35:28 PM Returning from comp
+07/29/2013 05:35:28 PM Returned from Comp
+07/29/2013 05:35:28 PM Returning from Choice
+07/29/2013 05:35:28 PM Returned from Choice function
+07/29/2013 05:35:28 PM Entered algorithm analysis
+07/29/2013 05:37:12 PM -----------------------------------END OF PROGRAM----------------------------------------
+
+
