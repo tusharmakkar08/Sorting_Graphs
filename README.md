@@ -26,10 +26,12 @@ Libraries Used :
 How to Run :
 -----------
 <pre>
-				python status.py		
-				# Making sortindex.csv
+	python status.py		
+	# Making sortindex.csv
+        
         python sortingdata.py
         # For plotting graph and Other functions like inserting N and T experimental value in database
+        
         python database.py
         # For Quering Database
 </pre>
@@ -82,13 +84,10 @@ Heapsort:
 
 Heapsort is a comparison-based sorting algorithm to create a sorted array (or list), and is part of the selection sort family. Although somewhat slower in practice on most machines than a well-implemented quicksort, it has the advantage of a more favorable worst-case O(n log n) runtime. Heapsort is an in-place algorithm, but it is not a stable sort.
 The heapsort algorithm can be divided into two parts.
-
 In the first step, a heap is built out of the data.
 
 In the second step, a sorted array is created by repeatedly removing the largest element from the heap, and inserting it into the array. The heap is reconstructed after each removal. Once all objects have been removed from the heap, we have a sorted array. The direction of the sorted elements can be varied by choosing a min-heap or max-heap in step one.
-
 Heapsort can be performed in place. The array can be split into two parts, the sorted array and the heap. The storage of heaps as arrays is diagrammed here. The heap's invariant is preserved after each extraction, so the only cost is that of extraction.
-
 
 Merge Sort:
 ======================
